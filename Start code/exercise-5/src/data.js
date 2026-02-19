@@ -9,7 +9,7 @@ export const foods = [
   {
     name: "Pizza",
     price: 8.99,
-    description: "A baked flatbread topped with tomato sauce, cheese, and various toppings.",
+    description: "A baked flatbread topped with tomato sauce, cheese.",
     origin: "Italy",
     img: {
       src: Pizza,
@@ -44,6 +44,6 @@ export const foods = [
     img: {
       src: burger,
       alt: "Classic beef burger",
-    },
-  },
+    }
+  }
 ];
