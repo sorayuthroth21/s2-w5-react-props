@@ -1,0 +1,15 @@
+
+Header{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+     display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: 100px;
+}
